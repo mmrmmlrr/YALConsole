@@ -17,7 +17,8 @@ Requirements
 Integration
 -----------
 -   Downolad YALConsole
--   Add **YALConsole.framework** and **YALConsole.bundle** to the project
+-   **Framework** directory contains two objects:**YALConsole.framework** and **YALConsole.bundle**. Add them to your project.
+-   YALConsole needs KVOController by Facebook to operate. You can find it in **Vendors** folder, or download it from [developer's page](https://github.com/facebook/KVOController).
 -   Add **-all_load** flag to Other Compiler Flags in Build Settings
 -   Import header: `#import <YALConsole/YALConsole.h>`
  
