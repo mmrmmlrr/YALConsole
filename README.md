@@ -26,7 +26,7 @@ Integration
 
 Add following to your podfile:
 ```ruby
-pod 'YALConsole', :git => "https://github.com/mmrmmlrr/YALConsolePod»
+pod 'YALConsole', :git => "https://github.com/mmrmmlrr/YALConsolePod"
 ```
 
 Usage
