@@ -41,7 +41,7 @@ Following code is similar to NSLog, it throws text message into console.
 YALog(@"Hello, console!");
 ```
 
-Unlike NSLog, output contains information about thread, class, method an line of code where call happens.
+Unlike NSLog, output contains information about thread, class, method and line of code where call happens.
 Tap output cell on ‘Console’ tab to see additional info.
 
 ### Dashboard
