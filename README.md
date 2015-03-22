@@ -33,7 +33,7 @@ pod 'YALConsole', :git => "https://github.com/mmrmmlrr/YALConsolePod"
 Usage
 -----
 
-Console instantiates on first call. You can do that at any point of your app from any thread. After instantiation console is available by two-finger tap gesture. It consists of two tabs: ‘Console’ as it is and ‘Dashboard’. 
+Console instantiates on the first call. You can do that at any point of your app from any thread. After instantiation console is available by two-finger tap gesture. It consists of two tabs: ‘Console’ as it is and ‘Dashboard’. 
 
 ### Console
 Following code is similar to NSLog, it throws text message into console.
